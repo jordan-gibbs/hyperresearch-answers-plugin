@@ -1,6 +1,6 @@
 {
   "name": "hyperresearch-answers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quote-checked answers and raw sources from the web plus more than 90 structured public data sources, with skills for fact-checking, public-record lookups and short sourced briefs.",
   "author": {
     "name": "Hyperresearch",
@@ -18,5 +18,8 @@
     "public-data",
     "mcp"
   ],
-  "privacyPolicyUrl": "https://hyperresearch.ai/legal/privacy"
+  "privacyPolicyUrl": "https://hyperresearch.ai/legal/privacy",
+  "supportUrl": "https://hyperresearch.ai/contact",
+  "documentationUrl": "https://hyperresearch.ai/docs/mcp",
+  "termsOfServiceUrl": "https://hyperresearch.ai/legal/terms"
 }
