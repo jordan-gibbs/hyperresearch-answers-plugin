@@ -1,0 +1,16 @@
+{
+  "name": "hyperresearch",
+  "description": "Hyperresearch plugins for Claude: quote-checked answers from the web and public data sources.",
+  "owner": {
+    "name": "Hyperresearch",
+    "email": "jordan@hyperresearch.ai",
+    "url": "https://hyperresearch.ai"
+  },
+  "plugins": [
+    {
+      "name": "hyperresearch-answers",
+      "source": "./",
+      "description": "Quote-checked answers and raw sources from the web plus more than 90 structured public data sources, with skills for fact-checking, public-record lookups and short sourced briefs."
+    }
+  ]
+}
