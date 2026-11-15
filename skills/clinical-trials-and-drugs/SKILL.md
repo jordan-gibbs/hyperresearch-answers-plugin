@@ -9,8 +9,8 @@ description: Use when the user asks about clinical trials, a drug's approval, la
 
 This skill uses the Hyperresearch Answers connector:
 
-- `answer_from_sec_filings_economic_data_patents_and_web`: the answer tool. One question, one short cited answer.
-- `search_sec_filings_economic_data_patents_and_web`: the search tool. Ranked sources with the exact passages.
+- `data_and_web_answer`: the answer tool. One question, one short cited answer.
+- `data_and_web_search`: the search tool. Ranked sources with the exact passages.
 - `get_pending_answer`: the pending-answer tool. Collects an answer that came back pending, by its id.
 
 Older connections may show these as `ask`, `search` and `get_answer`. Each call uses the user's Hyperresearch balance.

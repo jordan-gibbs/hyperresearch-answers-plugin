@@ -6,8 +6,8 @@ Cited answers from the record itself: SEC company filings, FRED and Census econo
 
 **Connector** (`.mcp.json`): the Hyperresearch Answers MCP server at `https://answers.hyperresearch.ai/mcp`, with three tools:
 
-- `answer_from_sec_filings_economic_data_patents_and_web`: one question, one short answer checked word for word against quotes from the pages it cites. Returns "not found" or "unconfirmed" instead of guessing, and flags false premises.
-- `search_sec_filings_economic_data_patents_and_web`: ranked sources with the exact passages and no written answer.
+- `data_and_web_answer`: one question, one short answer checked word for word against quotes from the pages it cites. Returns "not found" or "unconfirmed" instead of guessing, and flags false premises.
+- `data_and_web_search`: ranked sources with the exact passages and no written answer.
 - `get_pending_answer`: collects an answer that is still being worked on, by its id.
 
 Older connections may show these tools as `ask`, `search` and `get_answer`. They work the same.

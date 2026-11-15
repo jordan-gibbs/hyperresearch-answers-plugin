@@ -9,8 +9,8 @@ description: Use when the user wants a fact, a number, a date or an official rec
 
 This skill uses the Hyperresearch Answers connector:
 
-- `answer_from_sec_filings_economic_data_patents_and_web`: the answer tool. One question in, one short answer out, checked word for word against quotes from the pages it cites, with the quotes and URLs.
-- `search_sec_filings_economic_data_patents_and_web`: the search tool. Ranked sources with the exact passages and no written answer.
+- `data_and_web_answer`: the answer tool. One question in, one short answer out, checked word for word against quotes from the pages it cites, with the quotes and URLs.
+- `data_and_web_search`: the search tool. Ranked sources with the exact passages and no written answer.
 - `get_pending_answer`: the pending-answer tool. Collects an answer that came back pending, by its `ans_...` id.
 
 Older connections may show these as `ask`, `search` and `get_answer`. Each call uses the user's Hyperresearch balance.
