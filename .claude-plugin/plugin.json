@@ -1,7 +1,7 @@
 {
   "name": "hyperresearch-answers",
-  "version": "1.0.1",
-  "description": "Quote-checked answers and raw sources from the web plus more than 90 structured public data sources, with skills for fact-checking, public-record lookups and short sourced briefs.",
+  "version": "1.1.0",
+  "description": "Cited answers from SEC filings, FRED and Census economic data, patents and trademarks, clinical trials, lobbying and campaign-finance filings and bank records, among 120+ structured public data sources, plus the live web. Skills for company financials, the economy, patents, trials, lobbying, public records, markets and fact-checks.",
   "author": {
     "name": "Hyperresearch",
     "email": "jordan@hyperresearch.ai",
@@ -15,6 +15,13 @@
     "citations",
     "fact-checking",
     "sec-edgar",
+    "company-financials",
+    "economic-data",
+    "fred",
+    "patents",
+    "clinical-trials",
+    "lobbying",
+    "campaign-finance",
     "public-data",
     "mcp"
   ],

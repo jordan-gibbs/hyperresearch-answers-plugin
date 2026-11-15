@@ -1,6 +1,6 @@
 {
   "name": "hyperresearch",
-  "description": "Hyperresearch plugins for Claude: quote-checked answers from the web and public data sources.",
+  "description": "Hyperresearch plugins for Claude: cited answers from public records, official statistics and the live web.",
   "owner": {
     "name": "Hyperresearch",
     "email": "jordan@hyperresearch.ai",
@@ -10,7 +10,7 @@
     {
       "name": "hyperresearch-answers",
       "source": "./",
-      "description": "Quote-checked answers and raw sources from the web plus more than 90 structured public data sources, with skills for fact-checking, public-record lookups and short sourced briefs."
+      "description": "Cited answers from SEC filings, FRED and Census economic data, patents and trademarks, clinical trials, lobbying and campaign-finance filings and bank records, among 120+ structured public data sources, plus the live web. Skills for company financials, the economy, patents, trials, lobbying, public records, markets and fact-checks."
     }
   ]
 }
